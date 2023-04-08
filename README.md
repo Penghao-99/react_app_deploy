@@ -7,4 +7,4 @@ Steps to deploy repository to Github Pages:
   
 And you should be good to go!
   
-Note: It takes some time for the website to be uploaded
+Note: It will take awhile for you to see the live site url, and some more time for the website to be uploaded
